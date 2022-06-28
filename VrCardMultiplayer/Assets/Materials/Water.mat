@@ -38,7 +38,7 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _WaveDensity: 2
-    - _WaveSpeed: 0.1
+    - _WaveSpeed: 0.01
     - _speed: 2
     m_Colors:
     - _WaterColor: {r: 0.9339623, g: 0.9339623, b: 0.9339623, a: 0}
