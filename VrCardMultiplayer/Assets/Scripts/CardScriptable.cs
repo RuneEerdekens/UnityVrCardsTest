@@ -7,6 +7,7 @@ public class CardScriptable : ScriptableObject
 {
     public Material CardImage;
     public Material TextImage;
+    public Material TopMat;
 
     public int Health;
     public int AttackPower;
