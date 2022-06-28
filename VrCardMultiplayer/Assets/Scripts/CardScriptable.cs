@@ -5,8 +5,8 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "Card", menuName = "BattleCard", order = 1)]
 public class CardScriptable : ScriptableObject
 {
-    public Texture2D CardImage;
-    public Texture2D TextImage;
+    public Material CardImage;
+    public Material TextImage;
 
     public int Health;
     public int AttackPower;
