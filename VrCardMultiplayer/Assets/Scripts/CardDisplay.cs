@@ -11,6 +11,8 @@ public class CardDisplay : MonoBehaviour
     [SerializeField] private MeshRenderer HP;
     [SerializeField] private MeshRenderer Attack;
     [SerializeField] private MeshRenderer Manacost;
+
+    public int Team;
  
     void Start()
     {

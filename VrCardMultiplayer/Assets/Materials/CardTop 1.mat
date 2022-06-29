@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Water
-  m_Shader: {fileID: -6465566751694194690, guid: 46f9ed4bea472c647853cd5df6968a28, type: 3}
+  m_Name: CardTop 1
+  m_Shader: {fileID: -6465566751694194690, guid: 66163b3a7f3e7ca43b8fb64175a6272b, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -34,26 +34,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Density: 0.2
-    - _QueueControl: 0
-    - _QueueOffset: 0
-    - _WaveDensity: 2
-    - _WaveSpeed: 0.05
-    - _speed: 2
+    - _NoiseScale: 10
+    - _Speed: 0.5
+    - _power: 1
     m_Colors:
-    - _WaterColor: {r: 0.9339623, g: 0.9339623, b: 0.9339623, a: 0}
-    - _WaterColor2: {r: 0.18560877, g: 0.9150943, b: 0.90822804, a: 0.8705882}
+    - _Color: {r: 0, g: 24.347334, b: 24.585594, a: 0}
+    - _SubColor: {r: 0, g: 0.66131794, b: 0.8207547, a: 0}
   m_BuildTextureStacks: []
---- !u!114 &2469956294020448419
-MonoBehaviour:
-  m_ObjectHideFlags: 11
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  version: 5
