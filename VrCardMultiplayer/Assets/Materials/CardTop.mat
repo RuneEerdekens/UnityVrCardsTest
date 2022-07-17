@@ -38,6 +38,6 @@ Material:
     - _Speed: 0.5
     - _power: 1
     m_Colors:
-    - _Color: {r: 0, g: 24.347334, b: 24.585594, a: 0}
-    - _SubColor: {r: 0, g: 0.66131794, b: 0.8207547, a: 0}
+    - _Color: {r: 17.900835, g: 0, b: 0, a: 0}
+    - _SubColor: {r: 1.7824348, g: 0.52782786, b: 0, a: 0}
   m_BuildTextureStacks: []

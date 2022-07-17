@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8011191de10e48a47a60cbadd1d5265a, type: 3}
   m_Name: Card1
   m_EditorClassIdentifier: 
-  CardImage: {fileID: 10301, guid: 0000000000000000f000000000000000, type: 0}
-  TextImage: {fileID: 10301, guid: 0000000000000000f000000000000000, type: 0}
+  CardImage: {fileID: 2100000, guid: d624d6c5f0b64474cafc1ad9fb3a60f5, type: 2}
+  TextImage: {fileID: 2100000, guid: d624d6c5f0b64474cafc1ad9fb3a60f5, type: 2}
   TopMat: {fileID: 0}
   Health: 10
   AttackPower: 5
