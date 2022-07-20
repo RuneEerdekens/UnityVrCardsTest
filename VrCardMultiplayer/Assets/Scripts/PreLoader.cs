@@ -17,8 +17,6 @@ public class PreLoader : MonoBehaviour
             }
         }
     }
-
-
     public void StartHost()
     {
         network.StartHost();
